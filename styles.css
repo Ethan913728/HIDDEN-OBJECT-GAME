@@ -4,7 +4,7 @@ body{
     color: black;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
-  }
+    background-image: url("images/71KR9gNv9BL._AC_UF1000\,1000_QL80_\ \(1\).jpg");
   
 #object{
     position: fixed;/*This indicates that the position of the html element with the id of "object"
